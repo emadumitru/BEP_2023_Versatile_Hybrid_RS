@@ -1,0 +1,918 @@
+"name"	"gender"	"age"	"competition"	"stage_name"	"stage_num"	"date"	"order_stage"	"order_day"	"order_session"	"local_time"	"got_through"
+"Bies Tymoteusz"	"M"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	1	1	1	10:00:00 AM	0
+"Błaszczyk Rafał"	"M"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	2	2	2	10:25:00 AM	0
+"Byrdy Łukasz Piotr"	"M"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	3	3	3	10:50:00 AM	1
+"Candotti Michelle"	"F"	19	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	4	4	4	11:15:00 AM	1
+"Caroccia Luigi"	"M"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	5	5	5	12:10:00 PM	1
+"Chistiakova Galina"	"F"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	6	6	6	12:35:00 PM	1
+"Chistiakova Irina"	"F"	25	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	7	7	7	01:00:00 PM	0
+"Cho Seong Jin"	"M"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	8	8	8	01:25:00 PM	1
+"Fripp Ashley"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	9	9	1	05:00:00 PM	0
+"Furumi Yasuko"	"F"	17	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	10	10	2	05:25:00 PM	0
+"Giorgini Saskia"	"F"	30	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	11	11	3	05:50:00 PM	0
+"Goździewski Adam Mikołaj"	"M"	19	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	12	12	4	06:15:00 PM	0
+"Gyöngyösi Ivett"	"F"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	13	13	5	07:10:00 PM	1
+"Han Chi Ho"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	14	14	6	07:35:00 PM	1
+"Hansen Olof"	"M"	25	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	15	15	7	08:00:00 PM	1
+"Jia Julian Zhi Chao"	"M"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/03/15	16	16	8	08:25:00 PM	1
+"Jurinić Aljoša"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	17	1	1	10:00:00 AM	1
+"Ka Joo Yeon"	"F"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	18	2	2	10:25:00 AM	0
+"Kim Hong Gi"	"M"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	19	3	3	10:50:00 AM	0
+"Kim Su Yeon"	"F"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	20	4	4	11:15:00 AM	1
+"Kim Ye Dam"	"F"	27	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	21	5	5	12:10:00 PM	0
+"Kimura Yurika"	"F"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	22	6	6	12:35:00 PM	0
+"Klinton Dinara"	"F"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	23	7	7	01:00:00 PM	1
+"Kobayashi Aimi"	"F"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	24	8	8	01:25:00 PM	1
+"Kong Qi"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	25	9	1	05:00:00 PM	1
+"Kozák Marek"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	26	10	2	05:25:00 PM	1
+"Krupiński Łukasz"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	27	11	3	05:50:00 PM	1
+"Książek Krzysztof"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	28	12	4	06:15:00 PM	1
+"Kudo Rachel Naomi"	"F"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	29	13	5	07:10:00 PM	1
+"Liu Kate"	"F"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	30	14	6	07:35:00 PM	1
+"Lu Eric"	"M"	18	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	31	15	7	08:00:00 PM	1
+"Lu Tian"	"F"	30	"17th Chopin Piano Competition"	"Stage 1"	1	10/04/15	32	16	8	08:25:00 PM	0
+"Luo Xin"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	33	1	1	10:00:00 AM	0
+"Martynov Roman"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	34	2	2	10:25:00 AM	0
+"Maruyama Nagino"	"F"	16	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	35	3	3	10:50:00 AM	0
+"Mieno Nao"	"F"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	36	4	4	11:15:00 AM	0
+"Mikołajczyk Łukasz"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	37	5	5	12:10:00 PM	1
+"Motyczyński Paweł"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	38	6	6	12:35:00 PM	0
+"Mouza Alexia"	"F"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	39	7	7	01:00:00 PM	1
+"Nakagawa Mayaka"	"F"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	40	8	8	01:25:00 PM	1
+"Nakagiri Nozomi"	"F"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	41	9	1	05:00:00 PM	0
+"Nehring Szymon"	"M"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	42	10	2	05:25:00 PM	1
+"Nesterova Anastasiia"	"F"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	43	11	3	05:50:00 PM	0
+"Noerjadi Ronald"	"M"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	44	12	4	06:15:00 PM	0
+"Nogami Mariko"	"F"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	45	13	5	07:10:00 PM	0
+"Nowak Piotr"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	46	14	6	07:35:00 PM	1
+"Onoda Arisa"	"F"	19	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	47	15	7	08:00:00 PM	1
+"Osokins Georgijs"	"M"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/05/15	48	16	8	08:25:00 PM	1
+"Park Jinhyung"	"M"	19	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	49	1	1	10:00:00 AM	1
+"Pawlak Piotr Ryszard"	"M"	17	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	50	2	2	10:25:00 AM	0
+"Pietrzak Zuzanna"	"F"	18	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	51	3	3	10:50:00 AM	0
+"Poon Tiffany"	"F"	19	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	52	4	4	11:15:00 AM	0
+"Rajeshkumar Kausikan"	"M"	25	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	53	5	5	12:10:00 PM	0
+"Richard-Hamelin Charles"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	54	6	6	12:35:00 PM	1
+"Salimdjanova Tamila"	"F"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	55	7	7	01:00:00 PM	0
+"Sandrin Cristian Ioan"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	56	8	8	01:25:00 PM	0
+"Schwamová Natalie"	"F"	16	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	57	9	1	05:00:00 PM	0
+"Shi Boyang"	"F"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	58	10	2	05:25:00 PM	0
+"Shishkin Dmitry"	"M"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	59	11	3	05:50:00 PM	1
+"Sudo Rina"	"F"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	60	12	4	06:15:00 PM	1
+"Szymanowski Michał"	"M"	27	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	61	13	5	07:10:00 PM	1
+"Takeda Rikono"	"F"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	62	14	6	07:35:00 PM	0
+"Tarsevich-Nikolaev Arseny"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	63	15	7	08:00:00 PM	1
+"Tartakovsky Alexei"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/06/15	64	16	8	08:25:00 PM	1
+"Tsang Hin Yat"	"M"	22	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	65	1	1	10:00:00 AM	0
+"Ullman Alexander"	"M"	24	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	66	2	2	10:25:00 AM	1
+"Wang Chao"	"M"	25	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	67	3	3	10:50:00 AM	1
+"Wang Zhu"	"M"	18	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	68	4	4	11:15:00 AM	0
+"Wierciński Andrzej"	"M"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	69	5	5	12:10:00 PM	1
+"Wu Yuchong"	"M"	20	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	70	6	6	12:35:00 PM	0
+"Xu Zi"	"M"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	71	7	7	01:00:00 PM	1
+"Yang Yike (Tony)"	"M"	17	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	72	8	8	01:25:00 PM	1
+"Yermalayeva Yuliya"	"F"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	73	9	1	05:00:00 PM	0
+"Zhang Chuhan"	"F"	21	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	74	10	2	05:25:00 PM	0
+"Zhang Cheng"	"M"	26	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	75	11	3	05:50:00 PM	1
+"Zhou Annie"	"F"	17	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	76	12	4	06:15:00 PM	1
+"Ann Soo Jung"	"F"	28	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	77	13	5	07:10:00 PM	1
+"Arishima Miyako"	"F"	23	"17th Chopin Piano Competition"	"Stage 1"	1	10/07/15	78	14	6	07:35:00 PM	1
+"Byrdy Łukasz Piotr"	"M"	21	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	1	1	1	10:00:00 AM	0
+"Candotti Michelle"	"F"	19	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	2	2	2	10:35:00 AM	0
+"Caroccia Luigi"	"M"	24	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	3	3	3	11:10:00 AM	1
+"Chistiakova Galina"	"F"	28	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	4	4	4	12:15:00 PM	1
+"Cho Seong Jin"	"M"	21	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	5	5	5	12:50:00 PM	1
+"Gyöngyösi Ivett"	"F"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	6	6	6	01:25:00 PM	0
+"Han Chi Ho"	"M"	23	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	7	7	1	05:00:00 PM	1
+"Hansen Olof"	"M"	25	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	8	8	2	05:35:00 PM	0
+"Jia Julian Zhi Chao"	"M"	24	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	9	9	3	06:10:00 PM	0
+"Jurinić Aljoša"	"M"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	10	10	4	07:15:00 PM	1
+"Kim Su Yeon"	"F"	21	"17th Chopin Piano Competition"	"Stage 2"	2	10/09/15	11	11	5	07:50:00 PM	1
+"Klinton Dinara"	"F"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	12	1	1	10:00:00 AM	1
+"Kobayashi Aimi"	"F"	20	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	13	2	2	10:35:00 AM	1
+"Kong Qi"	"M"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	14	3	3	11:10:00 AM	0
+"Kozák Marek"	"M"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	15	4	4	12:15:00 PM	1
+"Krupiński Łukasz"	"M"	23	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	16	5	5	12:50:00 PM	1
+"Książek Krzysztof"	"M"	23	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	17	6	6	01:25:00 PM	1
+"Kudo Rachel Naomi"	"F"	28	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	18	7	1	05:00:00 PM	0
+"Liu Kate"	"F"	21	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	19	8	2	05:35:00 PM	1
+"Lu Eric"	"M"	18	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	20	9	3	06:10:00 PM	1
+"Mikołajczyk Łukasz"	"M"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	21	10	4	07:15:00 PM	0
+"Mouza Alexia"	"F"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/10/15	22	11	5	07:50:00 PM	0
+"Nakagawa Mayaka"	"F"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	23	1	1	10:00:00 AM	0
+"Nehring Szymon"	"M"	20	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	24	2	2	10:35:00 AM	1
+"Nowak Piotr"	"M"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	25	3	3	11:10:00 AM	0
+"Onoda Arisa"	"F"	19	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	26	4	4	12:15:00 PM	0
+"Osokins Georgijs"	"M"	20	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	27	5	5	12:50:00 PM	1
+"Park Jinhyung"	"M"	19	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	28	6	6	01:25:00 PM	0
+"Richard-Hamelin Charles"	"M"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	29	7	1	05:00:00 PM	1
+"Shishkin Dmitry"	"M"	23	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	30	8	2	05:35:00 PM	1
+"Sudo Rina"	"F"	28	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	31	9	3	06:10:00 PM	0
+"Szymanowski Michał"	"M"	27	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	32	10	4	07:15:00 PM	0
+"Tarsevich-Nikolaev Arseny"	"M"	22	"17th Chopin Piano Competition"	"Stage 2"	2	10/11/15	33	11	5	07:50:00 PM	0
+"Tartakovsky Alexei"	"M"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	34	1	1	10:00:00 AM	1
+"Ullman Alexander"	"M"	24	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	35	2	2	10:35:00 AM	0
+"Wang Chao"	"M"	25	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	36	3	3	11:10:00 AM	0
+"Wierciński Andrzej"	"M"	20	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	37	4	4	12:15:00 PM	0
+"Xu Zi"	"M"	21	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	38	5	5	12:50:00 PM	1
+"Yang Yike (Tony)"	"M"	17	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	39	6	1	05:00:00 PM	1
+"Zhang Cheng"	"M"	26	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	40	7	2	05:35:00 PM	0
+"Zhou Annie"	"F"	17	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	41	8	3	06:10:00 PM	0
+"Ann Soo Jung"	"F"	28	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	42	9	4	07:15:00 PM	0
+"Arishima Miyako"	"F"	23	"17th Chopin Piano Competition"	"Stage 2"	2	10/12/15	43	10	5	07:50:00 PM	0
+"Chistiakova Galina"	"F"	28	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	1	1	1	10:00:00 AM	0
+"Cho Seong Jin"	"M"	21	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	2	2	2	10:55:00 AM	1
+"Han Chi Ho"	"M"	23	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	3	3	3	12:20:00 PM	0
+"Jurinić Aljoša"	"M"	26	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	4	4	4	01:15:00 PM	1
+"Kim Su Yeon"	"F"	21	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	5	5	1	05:00:00 PM	0
+"Klinton Dinara"	"F"	26	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	6	6	2	05:55:00 PM	0
+"Kobayashi Aimi"	"F"	20	"17th Chopin Piano Competition"	"Stage 3"	3	10/14/15	7	7	3	07:20:00 PM	1
+"Kozák Marek"	"M"	22	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	8	1	1	10:00:00 AM	0
+"Krupiński Łukasz"	"M"	23	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	9	2	2	10:55:00 AM	0
+"Książek Krzysztof"	"M"	23	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	10	3	3	12:20:00 PM	0
+"Liu Kate"	"F"	21	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	11	4	4	01:15:00 PM	1
+"Lu Eric"	"M"	18	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	12	5	5	05:00:00 PM	1
+"Nehring Szymon"	"M"	20	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	13	6	6	05:55:00 PM	1
+"Osokins Georgijs"	"M"	20	"17th Chopin Piano Competition"	"Stage 3"	3	10/15/15	14	7	7	07:20:00 PM	1
+"Richard-Hamelin Charles"	"M"	26	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	15	1	1	10:00:00 AM	1
+"Shishkin Dmitry"	"M"	23	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	16	2	2	10:55:00 AM	1
+"Tartakovsky Alexei"	"M"	26	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	17	3	3	12:20:00 PM	0
+"Xu Zi"	"M"	21	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	18	4	4	01:15:00 PM	0
+"Yang Yike (Tony)"	"M"	17	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	19	5	1	05:00:00 PM	1
+"Caroccia Luigi"	"M"	24	"17th Chopin Piano Competition"	"Stage 3"	3	10/16/15	20	6	2	05:55:00 PM	0
+"Cho Seong Jin"	"M"	21	"17th Chopin Piano Competition"	"Final"	4	10/18/15	1	1	1	06:00:00 PM	1
+"Jurinić Aljoša"	"M"	26	"17th Chopin Piano Competition"	"Final"	4	10/18/15	2	2	2	06:40:00 PM	0
+"Kobayashi Aimi"	"F"	20	"17th Chopin Piano Competition"	"Final"	4	10/18/15	3	3	3	07:50:00 PM	0
+"Liu Kate"	"F"	21	"17th Chopin Piano Competition"	"Final"	4	10/18/15	4	4	4	08:30:00 PM	1
+"Lu Eric"	"M"	18	"17th Chopin Piano Competition"	"Final"	4	10/19/15	5	1	1	06:00:00 PM	1
+"Nehring Szymon"	"M"	20	"17th Chopin Piano Competition"	"Final"	4	10/19/15	6	2	2	06:40:00 PM	0
+"Osokins Georgijs"	"M"	20	"17th Chopin Piano Competition"	"Final"	4	10/19/15	7	3	3	07:50:00 PM	0
+"Richard-Hamelin Charles"	"M"	26	"17th Chopin Piano Competition"	"Final"	4	10/20/15	8	1	1	06:00:00 PM	1
+"Shishkin Dmitry"	"M"	23	"17th Chopin Piano Competition"	"Final"	4	10/20/15	9	2	2	06:40:00 PM	1
+"Yang Yike (Tony)"	"M"	17	"17th Chopin Piano Competition"	"Final"	4	10/20/15	10	3	3	07:50:00 PM	1
+"Kim Yoonji"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	1	1	1	03:00:00 PM	1
+"Sun Jun"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	2	2	2		0
+"Bensaïd Dina"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	3	3	3		0
+"Kim Youbin"	"F"		"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	4	4	4		0
+"Ji Yukyeong"	"F"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	5	5	5		0
+"Pisareva Nadezda"	"F"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	6	6	6		1
+"Park Juyoung"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	7	7	7		0
+"Park Joo Hyeon"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	8	8	1	08:00:00 PM	0
+"Hansen Olof"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	9	9	2		0
+"Cho Jun Hwi"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	10	10	3		1
+"Fu George Xiaoyuan"	"M"		"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	11	11	4		0
+"Pierdomenico Leonardo"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	12	12	5		1
+"Kim Dongkyu"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/02/16	13	13	6		1
+"Imada Atsushi"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	14	1	1	03:00:00 PM	1
+"Van de Velde Yannick"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	15	2	2		0
+"Treutler Annika"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	16	3	3		0
+"Sokolovskaya Natalia"	"F"		"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	17	4	4		0
+"Lee Eun Ae"	"F"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	18	5	5		1
+"Beyer Alexander"	"M"	22	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	19	6	6		1
+"Poizat Francois-Xavier"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	20	7	7		0
+"Berezovsky Evelyne"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	21	8	1	08:00:00 PM	0
+"Cheung Rachel"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	22	9	2		0
+"Kim Ye Seul"	"F"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	23	10	3		0
+"Kim Sungpil"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	24	11	4		0
+"Daneshpour Sara"	"F"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	25	12	5		0
+"Kim Saetbyeol"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/03/16	26	13	6		0
+"Han Hee Jun"	"F"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	27	1	1	03:00:00 PM	0
+"Lin Brian Yuebing"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	28	2	2		0
+"Rolim Ronaldo"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	29	3	3		0
+"Suh Hans H."	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	30	4	4		1
+"Noack Florian"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	31	5	5		0
+"Kim Myunghyun"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	32	6	6		0
+"Sun Jiayan"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	33	7	7		0
+"Zhdanov Denis"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	34	8	1	08:00:00 PM	1
+"Wong Evan"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	35	9	2		1
+"Zhou Ning"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	36	10	3		1
+"Dmytrenko Anna"	"F"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	37	11	4		0
+"Cai Sheng"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	38	12	5		0
+"Tartakovsky Alexei"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/04/16	39	13	6		0
+"Kim Su Yeon"	"F"	22	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	40	1	1	03:00:00 PM	1
+"Gouin Nathanaël"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	41	2	2		0
+"Takagi Ryoma"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	42	3	3		0
+"Sychev Alexey"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	43	4	4		0
+"Laurent-Grandpre Franck"	"M"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	44	5	5		0
+"Lapaz Enrique"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	45	6	6		0
+"Jurinić Aljoša"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	46	7	7		1
+"Yoon Jung Eun"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	47	8	1	08:00:00 PM	0
+"Vassilenko Victoria"	"F"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	48	9	2		0
+"Horváth Benedek"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	49	10	3		0
+"Han Chi Ho"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	50	11	4		1
+"Jittakarn San"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	51	12	5		1
+"Dubov Andrey"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/05/16	52	13	6		0
+"Kim Hong Gi"	"M"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	53	1	1	03:00:00 PM	0
+"Bulkina Anna"	"F"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	54	2	2		0
+"Yasynskyy Artem"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	55	3	3		0
+"Klinton Dinara"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	56	4	4		1
+"Won Jong Ho"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	57	5	5		0
+"Gologan Andrei"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	58	6	6		0
+"Sakai Arisa"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	59	7	1	08:00:00 PM	0
+"Rajeshkumar Kausikan"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	60	8	2		0
+"Marthan Aurèle"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	61	9	3		0
+"Weng Larry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	62	10	4		1
+"Huang Ruoyu"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	63	11	5		1
+"Tatsuno Tsubasa"	"M"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/06/16	64	12	6		0
+"Katada Airi"	"F"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	65	1	1	03:00:00 PM	0
+"Vondracek Lukas"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	66	2	2		1
+"Ferro Alberto"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	67	3	3		1
+"Won Jaeyeon"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	68	4	4		0
+"Sohn Jeung Beum"	"M"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	69	5	5		0
+"Kim Jong Yun"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	70	6	6		0
+"Okada Kana"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	71	7	1	08:00:00 PM	1
+"Destounis Konstantinos"	"M"	25	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	72	8	2		0
+"Sakiya Akihiro"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	73	9	3		0
+"Choi Hyounglok"	"M"		"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	74	10	4		0
+"Kramer Henry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	75	11	5		1
+"Shishkin Dmitry"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"First round"	1	05/07/16	76	12	6		1
+"Kim Yoonji"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/09/16	1	1	1	03:00:00 PM	1
+"Pisareva Nadezda"	"F"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/09/16	2	2	2		0
+"Han Chi Ho"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/09/16	1	3	3		1
+"Jittakarn San"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/09/16	2	4	4		0
+"Cho Jun Hwi"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/09/16	3	5	1	08:00:00 PM	0
+"Pierdomenico Leonardo"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/09/16	4	6	2		0
+"Kim Su Yeon"	"F"	22	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/09/16	3	7	3		0
+"Jurinić Aljoša"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/09/16	4	8	4		1
+"Kim Dongkyu"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/10/16	5	1	1	03:00:00 PM	0
+"Imada Atsushi"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/10/16	6	2	2		1
+"Huang Ruoyu"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/10/16	5	3	3		0
+"Vondracek Lukas"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/10/16	6	4	4		1
+"Lee Eun Ae"	"F"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/10/16	7	5	1	08:00:00 PM	0
+"Beyer Alexander"	"M"	22	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/10/16	8	6	2		1
+"Klinton Dinara"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/10/16	7	7	3		0
+"Weng Larry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/10/16	8	8	4		1
+"Suh Hans H."	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/11/16	9	1	1	03:00:00 PM	1
+"Zhdanov Denis"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/11/16	10	2	2		0
+"Okada Kana"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/11/16	9	3	3		1
+"Kramer Henry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/11/16	10	4	4		1
+"Wong Evan"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/11/16	11	5	1	08:00:00 PM	0
+"Zhou Ning"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/11/16	12	6	2		0
+"Shishkin Dmitry"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/11/16	11	7	3		1
+"Ferro Alberto"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/11/16	12	8	4		1
+"Kim Su Yeon"	"F"	22	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/12/16	13	1	1	03:00:00 PM	0
+"Jurinić Aljoša"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/12/16	14	2	2		1
+"Cho Jun Hwi"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/12/16	13	3	3		0
+"Pierdomenico Leonardo"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/12/16	14	4	4		0
+"Han Chi Ho"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/12/16	15	5	1	08:00:00 PM	1
+"Jittakarn San"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/12/16	16	6	2		0
+"Kim Yoonji"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/12/16	15	7	3		1
+"Pisareva Nadezda"	"F"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/12/16	16	8	4		0
+"Klinton Dinara"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/13/16	17	1	1	03:00:00 PM	0
+"Weng Larry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/13/16	18	2	2		1
+"Lee Eun Ae"	"F"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/13/16	17	3	3		0
+"Beyer Alexander"	"M"	22	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/13/16	18	4	4		1
+"Huang Ruoyu"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/13/16	19	5	1	08:00:00 PM	0
+"Vondracek Lukas"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/13/16	20	6	2		1
+"Kim Dongkyu"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/13/16	19	7	3		0
+"Imada Atsushi"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/13/16	20	8	4		1
+"Shishkin Dmitry"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/14/16	21	1	1	03:00:00 PM	1
+"Ferro Alberto"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/14/16	22	2	2		1
+"Wong Evan"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/14/16	21	3	3		0
+"Zhou Ning"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/14/16	22	4	4		0
+"Okada Kana"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/14/16	23	5	1	08:00:00 PM	1
+"Kramer Henry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Semifinal – Mozart concerto"	2	05/14/16	24	6	2		1
+"Suh Hans H."	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/14/16	23	7	3		1
+"Zhdanov Denis"	"M"	28	"Queen Elisabeth Competition Piano 2016"	"Semifinal – recital"	2	05/14/16	24	8	4		0
+"Kim Yoonji"	"F"	27	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/23/16	1	1	1	08:00:00 PM	0
+"Imada Atsushi"	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/23/16	2	2	2		0
+"Beyer Alexander"	"M"	22	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/24/16	3	1	1	08:00:00 PM	1
+"Suh Hans H."	"M"	26	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/24/16	4	2	2		0
+"Jurinić Aljoša"	"M"	27	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/25/16	5	1	1	08:00:00 PM	1
+"Han Chi Ho"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/25/16	6	2	2		1
+"Weng Larry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/26/16	7	1	1	08:00:00 PM	0
+"Vondracek Lukas"	"M"	30	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/26/16	8	2	2		1
+"Shishkin Dmitry"	"M"	24	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/27/16	9	1	1	08:00:00 PM	0
+"Ferro Alberto"	"M"	20	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/27/16	10	2	2		1
+"Okada Kana"	"F"	25	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/28/16	11	1	1	08:00:00 PM	0
+"Kramer Henry"	"M"	29	"Queen Elisabeth Competition Piano 2016"	"Final"	3	05/28/16	12	2	2		1
+"Menguy Rodolphe"	"M"	24	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	1	1	1	04:00:00 PM	0
+"Parkhomenko Daria"	"F"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	2	2	2	04:00:00 PM	0
+"Yang Xiaohui"	"F"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	3	3	3	04:00:00 PM	0
+"Yoo Sung Ho"	"M"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	4	4	4	04:00:00 PM	0
+"Liepins Daumants"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	5	5	1	08:00:00 PM	1
+"Kajenjeri Mirabelle"	"F"	23	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	6	6	2	08:00:00 PM	0
+"Basic Ivan"	"M"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	7	7	3	08:00:00 PM	0
+"Wierciński Andrzej"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/03/21	8	8	4	08:00:00 PM	0
+"Khokhlova Maria"	"F"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	9	1	1	12:00:00 PM	0
+"Park Jinhyung"	"M"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	10	2	2	12:00:00 PM	0
+"Saito Kazuya"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	11	3	3	12:00:00 PM	0
+"Konnov Evgeny"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	12	4	4	12:00:00 PM	0
+"Papoian Ilia"	"M"	20	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	13	5	5	12:00:00 PM	0
+"Starikov Vitaly"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	14	6	1	04:00:00 PM	1
+"Orth Kyle"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	15	7	2	04:00:00 PM	0
+"Jittakarn San"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	16	8	3	04:00:00 PM	0
+"Kim Su Yeon"	"F"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	17	9	4	04:00:00 PM	1
+"Yoo Se Hyeong"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	18	10	1	08:00:00 PM	0
+"Buordoncle Nicolas"	"M"	23	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	19	11	2	08:00:00 PM	0
+"Zang Xiaolu"	"M"	22	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	20	12	3	08:00:00 PM	1
+"Park Youngho"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/04/21	21	13	4	08:00:00 PM	0
+"Pierdomenico Leonardo"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	22	1	1	12:00:00 PM	0
+"Kurz Aaron"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	23	2	2	12:00:00 PM	0
+"Shmukler Ilya"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	24	3	3	12:00:00 PM	0
+"Ben-Yehuda Nathan"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	25	4	4	12:00:00 PM	0
+"Kim Seolhwa"	"F"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	26	5	5	12:00:00 PM	0
+"Sakata Tomoki"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	27	6	1	04:00:00 PM	1
+"Guarrera Giuseppe"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	28	7	2	04:00:00 PM	0
+"Gevrek Salih Can"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	29	8	3	04:00:00 PM	0
+"Keshet Eylam"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	30	9	4	04:00:00 PM	0
+"Mukawa Keigo"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	31	10	1	08:00:00 PM	1
+"Redkin Sergei"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	32	11	2	08:00:00 PM	1
+"Gasparian Jean-Paul"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	33	12	3	08:00:00 PM	0
+"Alberti Maxime"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/05/21	34	13	4	08:00:00 PM	0
+"Kim Junhyung"	"M"	24	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	35	1	1	04:00:00 PM	0
+"Kim Séverine"	"F"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	36	2	2	04:00:00 PM	0
+"Dorokhova Tatiana"	"F"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	37	3	3	04:00:00 PM	0
+"Mikdad Aidan"	"M"	20	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	38	4	4	04:00:00 PM	1
+"Lee Hyuk"	"M"	21	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	39	5	1	08:00:00 PM	0
+"Hisasue Wataru"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	40	6	2	08:00:00 PM	0
+"Sin Dmitry"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	41	7	3	08:00:00 PM	1
+"Lee Taek Gi"	"M"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/06/21	42	8	4	08:00:00 PM	0
+"Shin Changyong"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	43	1	1	04:00:00 PM	0
+"Klimo Peter"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	44	2	2	04:00:00 PM	0
+"Kyrychenko Rafael"	"M"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	45	3	3	04:00:00 PM	0
+"Park Kyoungsun"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	46	4	4	04:00:00 PM	0
+"Fournel Jonathan"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	47	5	1	08:00:00 PM	1
+"Kim Hyelim"	"F"	25	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	48	6	2	08:00:00 PM	0
+"Kobayashi Kaito"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	49	7	3	08:00:00 PM	0
+"Kim Hong Gi"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/07/21	50	8	4	08:00:00 PM	0
+"Hanssen Knut"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	51	1	1	04:00:00 PM	0
+"Nitahara Yu"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	52	2	2	04:00:00 PM	0
+"Yoshimi Yuki"	"M"	21	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	53	3	3	04:00:00 PM	1
+"Mavliudov Nail"	"M"	29	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	54	4	4	04:00:00 PM	0
+"Tadokoro Marcel"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	55	5	1	08:00:00 PM	1
+"Trushechkin Alexey"	"M"	31	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	56	6	2	08:00:00 PM	0
+"Tang Stephanie"	"F"	27	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	57	7	3	08:00:00 PM	0
+"Hong Minsoo"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"First round"	1	05/08/21	58	8	4	08:00:00 PM	0
+"Liepins Daumants"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/10/21	1	1	1	04:00:00 PM	0
+"Starikov Vitaly"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/10/21	2	2	2	08:00:00 PM	1
+"Tadokoro Marcel"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/11/21	3	1	1	04:00:00 PM	0
+"Zang Xiaolu"	"M"	22	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/11/21	4	2	2	08:00:00 PM	0
+"Kim Su Yeon"	"F"	27	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/12/21	5	1	1	04:00:00 PM	0
+"Sakata Tomoki"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/12/21	6	2	2	08:00:00 PM	1
+"Mukawa Keigo"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/13/21	7	1	1	04:00:00 PM	1
+"Redkin Sergei"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/13/21	8	2	2	08:00:00 PM	1
+"Mikdad Aidan"	"M"	20	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/14/21	9	1	1	04:00:00 PM	0
+"Sin Dmitry"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/14/21	10	2	2	08:00:00 PM	1
+"Fournel Jonathan"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/15/21	11	1	1	04:00:00 PM	1
+"Yoshimi Yuki"	"M"	21	"Queen Elisabeth Competition Piano 2021"	"Semifinal"	2	05/15/21	12	2	2	08:00:00 PM	0
+"Starikov Vitaly"	"M"	26	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/24/21	1	1	1	08:00:00 PM	1
+"Sakata Tomoki"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/25/21	2	1	1	08:00:00 PM	1
+"Mukawa Keigo"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/26/21	3	1	1	08:00:00 PM	1
+"Redkin Sergei"	"M"	30	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/27/21	4	1	1	08:00:00 PM	1
+"Sin Dmitry"	"M"	27	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/28/21	5	1	1	08:00:00 PM	1
+"Fournel Jonathan"	"M"	28	"Queen Elisabeth Competition Piano 2021"	"Final"	3	05/29/21	6	1	1	08:00:00 PM	1
+"Mao Xuanyi"	"F"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	1	1	1	10:00:00 AM	0
+"Marut Tomasz"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	2	2	2	10:30:00 AM	0
+"Mei Yupeng"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	3	3	3	11:00:00 AM	0
+"Mun Arsenii"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	4	4	4	11:30:00 AM	1
+"Nehring Szymon"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	5	5	5	12:30:00 PM	1
+"Nguyen Viet Trung"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	6	6	6	01:00:00 PM	1
+"Osokins Georgijs"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	7	7	7	01:30:00 PM	1
+"Ozel Evren"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	8	8	8	02:00:00 PM	1
+"Pacholec Kamil"	"M"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	9	9	9	02:30:00 PM	1
+"Park Jinhyung"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	10	10	1	05:00:00 PM	0
+"Park Yeonmin"	"F"	31	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	11	11	2	05:30:00 PM	0
+"Pawlak Piotr"	"M"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	12	12	3	06:00:00 PM	0
+"Pierdomenico Leonardo"	"M"	29	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	13	13	4	06:30:00 PM	0
+"Pietrzak Zuzanna"	"F"	24	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	14	14	5	07:30:00 PM	0
+"Rao Hao"	"M"	17	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	15	15	6	08:00:00 PM	1
+"Ruan Yangyang"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	16	16	7	08:30:00 PM	0
+"Sawada Sohgo"	"M"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	17	17	8	09:00:00 PM	1
+"Sham Aristo"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/03/21	18	18	9	09:30:00 PM	1
+"Shindo Miyu"	"F"	19	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	19	1	1	10:00:00 AM	1
+"Smith Talon"	"M"	19	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	20	2	2	10:30:00 AM	1
+"Sorita Kyohei"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	21	3	3	11:00:00 AM	1
+"Su Szu Yu"	"F"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	22	4	4	11:30:00 AM	1
+"Sumino Hayato"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	23	5	5	12:30:00 PM	1
+"Sun Yutong"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	24	6	6	01:00:00 PM	1
+"Świgut Aleksandra"	"F"	29	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	25	7	7	01:30:00 PM	0
+"Takeda Rikono"	"F"	28	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	26	8	8	02:00:00 PM	0
+"Tie ShunShun"	"M"	21	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	27	9	9	02:30:00 PM	0
+"Tuan Sarah"	"F"	19	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	28	10	1	05:00:00 PM	0
+"Ushida Tomoharu"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	29	11	2	05:30:00 PM	1
+"Wang Zitong"	"F"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	30	12	3	06:00:00 PM	0
+"Wei Zijian"	"M"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	31	13	4	06:30:00 PM	0
+"Wieczorek Marcin"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	32	14	5	07:30:00 PM	0
+"Wierciński Andrzej"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	33	15	6	08:00:00 PM	1
+"Wong Victoria"	"F"	24	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	34	16	7	08:30:00 PM	0
+"Wu Yuchong"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	35	17	8	09:00:00 PM	1
+"Xie Lingfei (Stephan)"	"M"	21	"18th Chopin Piano Competition"	"Stage 1"	2	10/04/21	36	18	9	09:30:00 PM	1
+"Xu Zi"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	37	1	1	10:00:00 AM	1
+"Yang Yuanfan"	"M"	24	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	38	2	2	10:30:00 AM	0
+"Yasko Anastasia"	"F"	30	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	39	3	3	11:00:00 AM	0
+"Zenin Andrey"	"M"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	40	4	4	11:30:00 AM	0
+"Zhang Boao"	"M"	18	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	41	5	5	12:30:00 PM	0
+"Zhao Yilan"	"F"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	42	6	6	01:00:00 PM	0
+"Zhao Ziji Zoé"	"F"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	43	7	7	01:30:00 PM	0
+"Alexewicz Piotr"	"M"	21	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	44	8	8	02:00:00 PM	1
+"Armellini Leonora"	"F"	29	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	45	9	9	02:30:00 PM	1
+"Bui J J Jun Li"	"M"	17	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	46	10	1	05:00:00 PM	1
+"Candotti Michelle"	"F"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	47	11	2	05:30:00 PM	1
+"Chang Kai Min"	"M"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	48	12	3	06:00:00 PM	1
+"Chen Junhui"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	49	13	4	06:30:00 PM	0
+"Chen Xuehong"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	50	14	5	07:30:00 PM	1
+"Chen Zixi"	"M"	19	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	51	15	6	08:00:00 PM	0
+"Choi Hyounglok"	"M"	28	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	52	16	7	08:30:00 PM	1
+"Crema Federico Gad"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/05/21	53	17	8	09:00:00 PM	1
+"Dąbek Aleksandra Hortensja"	"F"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	54	1	1	10:00:00 AM	0
+"Ferro Alberto"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	55	2	2	10:30:00 AM	1
+"Furumi Yasuko"	"F"	23	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	56	3	3	11:00:00 AM	1
+"Gadijev Alexander"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	57	4	4	11:30:00 AM	1
+"Gagliano Avery"	"F"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	58	5	5	12:30:00 PM	1
+"García García Martín"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	59	6	6	01:00:00 PM	1
+"Gevorgyan Eva"	"F"	17	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	60	7	7	01:30:00 PM	1
+"Buajasan Jorge González"	"M"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	61	8	8	02:00:00 PM	0
+"Goranko Joanna"	"F"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	62	9	9	02:30:00 PM	0
+"Guo Chelsea"	"F"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	63	10	1	05:00:00 PM	0
+"Guo Eric"	"M"	19	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	64	11	2	05:30:00 PM	0
+"Hara Saaya"	"F"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	65	12	3	06:00:00 PM	0
+"Hou Yifan"	"M"	17	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	66	13	4	06:30:00 PM	0
+"Hsieh Wei Ting"	"F"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	67	14	5	07:30:00 PM	1
+"Igarashi Kaoruko"	"F"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	68	15	6	08:00:00 PM	0
+"Imai Riko"	"F"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	69	16	7	08:30:00 PM	0
+"Ito Junichi"	"M"	30	"18th Chopin Piano Competition"	"Stage 1"	2	10/06/21	70	17	8	09:00:00 PM	0
+"Iwai Asaki"	"F"	21	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	71	1	1	10:00:00 AM	0
+"Jittakarn San"	"M"	29	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	72	2	2	10:30:00 AM	0
+"Ka Joo Yeon"	"F"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	73	3	3	11:00:00 AM	0
+"Kałduński Adam"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	74	4	4	11:30:00 AM	1
+"Khozyainov Nikolay"	"M"	29	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	75	5	5	12:30:00 PM	1
+"Kim Su Yeon"	"F"	27	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	76	6	6	01:00:00 PM	1
+"Kobayashi Aimi"	"F"	26	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	77	7	7	01:30:00 PM	1
+"Krzyżowski Mateusz"	"M"	22	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	78	8	8	02:00:00 PM	1
+"Kuszlik Jakub"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	79	9	9	02:30:00 PM	1
+"Kyomasu Shushi"	"M"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	80	10	1	05:00:00 PM	1
+"Lee Hyuk"	"M"	21	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	81	11	2	05:30:00 PM	1
+"Lee Jaeyoon"	"F"	24	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	82	12	3	06:00:00 PM	0
+"Li Xiaoxuan"	"M"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	83	13	4	06:30:00 PM	0
+"Liu Bruce (Xiaoyu)"	"M"	24	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	84	14	5	07:30:00 PM	1
+"Łozowska Julia"	"F"	20	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	85	15	6	08:00:00 PM	0
+"Peng Jiana"	"F"	25	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	86	16	7	08:30:00 PM	0
+"Wang Chao"	"M"	31	"18th Chopin Piano Competition"	"Stage 1"	2	10/07/21	87	17	8	09:00:00 PM	0
+"Mun Arsenii"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	1	1	1	10:00:00 AM	0
+"Nehring Szymon"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	2	2	2	10:40:00 AM	1
+"Nguyen Viet Trung"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	3	3	3	11:20:00 AM	0
+"Osokins Georgijs"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	4	4	4	12:30:00 PM	0
+"Ozel Evren"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	5	5	5	01:10:00 PM	0
+"Pacholec Kamil"	"M"	23	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	6	6	6	01:50:00 PM	1
+"Rao Hao"	"M"	17	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	7	7	1	05:00:00 PM	1
+"Sawada Sohgo"	"M"	23	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	8	8	2	05:40:00 PM	0
+"Sham Aristo"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	9	9	3	06:20:00 PM	0
+"Shindo Miyu"	"F"	19	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	10	10	4	07:30:00 PM	1
+"Smith Talon"	"M"	19	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	11	11	5	08:10:00 PM	0
+"Sorita Kyohei"	"M"	27	"18th Chopin Piano Competition"	"Stage 2"	3	10/09/21	12	12	6	08:50:00 PM	1
+"Su Szu Yu"	"F"	23	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	13	1	1	10:00:00 AM	0
+"Sumino Hayato"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	14	2	2	10:40:00 AM	1
+"Sun Yutong"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	15	3	3	11:20:00 AM	0
+"Ushida Tomoharu"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	16	4	4	12:30:00 PM	0
+"Wierciński Andrzej"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	17	5	5	01:10:00 PM	1
+"Wu Yuchong"	"M"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	18	6	6	01:50:00 PM	0
+"Xie Lingfei (Stephan)"	"M"	21	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	19	7	1	05:00:00 PM	0
+"Xu Zi"	"M"	27	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	20	8	2	05:40:00 PM	0
+"Alexewicz Piotr"	"M"	21	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	21	9	3	06:20:00 PM	1
+"Armellini Leonora"	"F"	29	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	22	10	4	07:30:00 PM	1
+"Bui J J Jun Li"	"M"	17	"18th Chopin Piano Competition"	"Stage 2"	3	10/10/21	23	11	5	08:10:00 PM	1
+"Candotti Michelle"	"F"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	24	1	1	10:00:00 AM	1
+"Chang Kai Min"	"M"	20	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	25	2	2	10:40:00 AM	0
+"Chen Xuehong"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	26	3	3	11:20:00 AM	0
+"Choi Hyounglok"	"M"	28	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	27	4	4	12:30:00 PM	0
+"Crema Federico Gad"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	28	5	5	01:10:00 PM	0
+"Ferro Alberto"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	29	6	6	01:50:00 PM	0
+"Furumi Yasuko"	"F"	23	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	30	7	1	05:00:00 PM	1
+"Gadijev Alexander"	"M"	27	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	31	8	2	05:40:00 PM	1
+"Gagliano Avery"	"F"	20	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	32	9	3	06:20:00 PM	1
+"García García Martín"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	33	10	4	07:30:00 PM	1
+"Gevorgyan Eva"	"F"	17	"18th Chopin Piano Competition"	"Stage 2"	3	10/11/21	34	11	5	08:10:00 PM	1
+"Hsieh Wei Ting"	"F"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	35	1	1	10:00:00 AM	0
+"Kałduński Adam"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	36	2	2	10:40:00 AM	0
+"Khozyainov Nikolay"	"M"	29	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	37	3	3	11:20:00 AM	1
+"Kim Su Yeon"	"F"	27	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	38	4	4	12:30:00 PM	1
+"Kobayashi Aimi"	"F"	26	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	39	5	5	01:10:00 PM	1
+"Krzyżowski Mateusz"	"M"	22	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	40	6	6	01:50:00 PM	1
+"Kuszlik Jakub"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	41	7	1	05:00:00 PM	1
+"Kyomasu Shushi"	"M"	25	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	42	8	2	05:40:00 PM	0
+"Lee Hyuk"	"M"	21	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	43	9	3	06:20:00 PM	1
+"Liu Bruce (Xiaoyu)"	"M"	24	"18th Chopin Piano Competition"	"Stage 2"	3	10/12/21	44	10	4	07:30:00 PM	1
+"Nehring Szymon"	"M"	26	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	1	1	1	10:00:00 AM	0
+"Pacholec Kamil"	"M"	23	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	2	2	2	11:00:00 AM	1
+"Rao Hao"	"M"	17	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	3	3	3	12:20:00 PM	1
+"Shindo Miyu"	"F"	19	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	4	4	4	01:20:00 PM	0
+"Sorita Kyohei"	"M"	27	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	5	5	1	05:00:00 PM	1
+"Sumino Hayato"	"M"	26	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	6	6	2	06:00:00 PM	0
+"Wierciński Andrzej"	"M"	26	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	7	7	3	07:20:00 PM	0
+"Alexewicz Piotr"	"M"	21	"18th Chopin Piano Competition"	"Stage 3"	4	10/14/21	8	8	4	08:20:00 PM	0
+"Armellini Leonora"	"F"	29	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	9	1	1	10:00:00 AM	1
+"Bui J J Jun Li"	"M"	17	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	10	2	2	11:00:00 AM	1
+"Candotti Michelle"	"F"	25	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	11	3	3	12:20:00 PM	0
+"Furumi Yasuko"	"F"	23	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	12	4	4	01:20:00 PM	0
+"Gadijev Alexander"	"M"	27	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	13	5	1	05:00:00 PM	1
+"Gagliano Avery"	"F"	20	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	14	6	2	06:00:00 PM	0
+"García García Martín"	"M"	25	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	15	7	3	07:20:00 PM	1
+"Gevorgyan Eva"	"F"	17	"18th Chopin Piano Competition"	"Stage 3"	4	10/15/21	16	8	4	08:20:00 PM	1
+"Khozyainov Nikolay"	"M"	29	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	17	1	1	10:00:00 AM	0
+"Kim Su Yeon"	"F"	27	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	18	2	2	11:00:00 AM	0
+"Kobayashi Aimi"	"F"	26	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	19	3	3	12:20:00 PM	1
+"Krzyżowski Mateusz"	"M"	22	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	20	4	4	01:20:00 PM	0
+"Kuszlik Jakub"	"M"	25	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	21	5	1	05:00:00 PM	1
+"Lee Hyuk"	"M"	21	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	22	6	2	06:00:00 PM	1
+"Liu Bruce (Xiaoyu)"	"M"	24	"18th Chopin Piano Competition"	"Stage 3"	4	10/16/21	23	7	3	07:20:00 PM	1
+"Pacholec Kamil"	"M"	23	"18th Chopin Piano Competition"	"Final"	5	10/18/21	1	1	1	06:00:00 PM	0
+"Rao Hao"	"M"	17	"18th Chopin Piano Competition"	"Final"	5	10/18/21	2	2	2	06:40:00 PM	0
+"Sorita Kyohei"	"M"	27	"18th Chopin Piano Competition"	"Final"	5	10/18/21	3	3	3	07:50:00 PM	1
+"Armellini Leonora"	"M"	29	"18th Chopin Piano Competition"	"Final"	5	10/18/21	4	4	4	08:30:00 PM	1
+"Bui J J Jun Li"	"M"	17	"18th Chopin Piano Competition"	"Final"	5	10/19/21	5	1	1	06:00:00 PM	1
+"Gadijev Alexander"	"M"	27	"18th Chopin Piano Competition"	"Final"	5	10/19/21	6	2	2	06:40:00 PM	1
+"García García Martín"	"M"	25	"18th Chopin Piano Competition"	"Final"	5	10/19/21	7	3	3	07:50:00 PM	1
+"Gevorgyan Eva"	"M"	17	"18th Chopin Piano Competition"	"Final"	5	10/19/21	8	4	4	08:30:00 PM	0
+"Kobayashi Aimi"	"F"	26	"18th Chopin Piano Competition"	"Final"	5	10/20/21	9	1	1	06:00:00 PM	1
+"Kuszlik Jakub"	"M"	25	"18th Chopin Piano Competition"	"Final"	5	10/20/21	10	2	2	06:40:00 PM	1
+"Lee Hyuk"	"M"	21	"18th Chopin Piano Competition"	"Final"	5	10/20/21	11	3	3	07:50:00 PM	0
+"Liu Bruce (Xiaoyu)"	"M"	24	"18th Chopin Piano Competition"	"Final"	5	10/20/21	12	4	4	08:30:00 PM	1
+"Osokins Georgijs"	"M"	27	"Cliburn 2022"	"Preliminary"	1	06/02/22	1	1	1	10:00:00 AM	0
+"Kliuchereva Elizaveta"	"F"	23	"Cliburn 2022"	"Preliminary"	1	06/02/22	2	2	2	10:45:00 AM	0
+"Liu Ziyu"	"M"	24	"Cliburn 2022"	"Preliminary"	1	06/02/22	3	3	3	11:45:00 AM	0
+"Mak Jonathan"	"M"	25	"Cliburn 2022"	"Preliminary"	1	06/02/22	4	4	1	02:30:00 PM	0
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Preliminary"	1	06/02/22	5	5	2	03:15:00 PM	1
+"Li Andrew"	"M"	22	"Cliburn 2022"	"Preliminary"	1	06/02/22	6	6	3	04:15:00 PM	1
+"Linnik Denis"	"M"	26	"Cliburn 2022"	"Preliminary"	1	06/02/22	7	7	4	05:00:00 PM	1
+"An Tianxu"	"M"	23	"Cliburn 2022"	"Preliminary"	1	06/02/22	8	8	1	07:30:00 PM	0
+"Gusev Arseniy"	"M"	23	"Cliburn 2022"	"Preliminary"	1	06/02/22	9	9	2	08:15:00 PM	0
+"Kamei Masaya"	"M"	20	"Cliburn 2022"	"Preliminary"	1	06/02/22	10	10	3	09:15:00 PM	1
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Preliminary"	1	06/03/22	11	1	1	10:00:00 AM	1
+"Cai Yangrui"	"M"	21	"Cliburn 2022"	"Preliminary"	1	06/03/22	12	2	2	10:45:00 AM	0
+"Tanin Sergey"	"M"	26	"Cliburn 2022"	"Preliminary"	1	06/03/22	13	3	3	11:45:00 AM	0
+"Smit Albert Cano"	"M"	25	"Cliburn 2022"	"Preliminary"	1	06/03/22	14	4	1	02:30:00 PM	1
+"Yoshimi Yuki"	"M"	22	"Cliburn 2022"	"Preliminary"	1	06/03/22	15	5	2	03:15:00 PM	1
+"Starikov Vitaly"	"M"	27	"Cliburn 2022"	"Preliminary"	1	06/03/22	16	6	3	04:15:00 PM	0
+"Zang Xiaolu"	"M"	22	"Cliburn 2022"	"Preliminary"	1	06/03/22	17	7	4	05:00:00 PM	0
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Preliminary"	1	06/03/22	18	8	1	07:30:00 PM	1
+"Granata Francesco"	"M"	23	"Cliburn 2022"	"Preliminary"	1	06/03/22	19	9	2	08:15:00 PM	0
+"Sun Yutong"	"M"	26	"Cliburn 2022"	"Preliminary"	1	06/03/22	20	10	3	09:15:00 PM	1
+"Lee Shuan Hern"	"M"	19	"Cliburn 2022"	"Preliminary"	1	06/04/22	21	1	1	10:00:00 AM	0
+"Tadokoro Marcel"	"M"	28	"Cliburn 2022"	"Preliminary"	1	06/04/22	22	2	2	10:45:00 AM	1
+"Crema Federico Gad"	"M"	23	"Cliburn 2022"	"Preliminary"	1	06/04/22	23	3	3	11:45:00 AM	1
+"Kim Hong Gi"	"M"	30	"Cliburn 2022"	"Preliminary"	1	06/04/22	24	4	1	02:30:00 PM	1
+"Liu Kate"	"F"	28	"Cliburn 2022"	"Preliminary"	1	06/04/22	25	5	2	03:15:00 PM	1
+"Park Jinhyung"	"M"	26	"Cliburn 2022"	"Preliminary"	1	06/04/22	26	6	3	04:15:00 PM	1
+"Choni Dmytro"	"M"	28	"Cliburn 2022"	"Preliminary"	1	06/04/22	27	7	4	05:00:00 PM	1
+"Shin Changyong"	"M"	28	"Cliburn 2022"	"Preliminary"	1	06/04/22	28	8	1	07:30:00 PM	1
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Preliminary"	1	06/04/22	29	9	2	08:15:00 PM	1
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Preliminary"	1	06/04/22	30	10	3	09:15:00 PM	1
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	1	1	1	10:00:00 AM	1
+"Li Andrew"	"M"	22	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	2	2	2	10:45:00 AM	0
+"Linnik Denis"	"M"	26	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	3	3	3	11:45:00 AM	0
+"Kamei Masaya"	"M"	20	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	4	4	1	02:30:00 PM	1
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	5	5	2	03:15:00 PM	1
+"Smit Albert Cano"	"M"	25	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	6	6	3	04:15:00 PM	0
+"Yoshimi Yuki"	"M"	22	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	7	7	1	07:30:00 PM	0
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	8	8	2	08:15:00 PM	1
+"Sun Yutong"	"M"	26	"Cliburn 2022"	"Quarterfinal"	2	06/05/22	9	9	3	09:15:00 PM	1
+"Tadokoro Marcel"	"M"	28	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	10	1	1	10:00:00 AM	1
+"Crema Federico Gad"	"M"	23	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	11	2	2	10:45:00 AM	0
+"Kim Hong Gi"	"M"	30	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	12	3	3	11:45:00 AM	1
+"Liu Kate"	"F"	28	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	13	4	1	02:30:00 PM	0
+"Park Jinhyung"	"M"	26	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	14	5	2	03:15:00 PM	1
+"Choni Dmytro"	"M"	28	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	15	6	3	04:15:00 PM	1
+"Shin Changyong"	"M"	28	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	16	7	1	07:30:00 PM	1
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	17	8	2	08:15:00 PM	1
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Quarterfinal"	2	06/06/22	18	9	3	09:15:00 PM	1
+"Sun Yutong"	"M"	26	"Cliburn 2022"	"Semifinal – recital"	3	06/08/22	1	1	1	07:30:00 PM	0
+"Kamei Masaya"	"M"	20	"Cliburn 2022"	"Semifinal – recital"	3	06/08/22	2	2	2	08:50:00 PM	0
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Semifinal – recital"	3	06/09/22	3	1	1	02:30:00 PM	1
+"Shin Changyong"	"M"	28	"Cliburn 2022"	"Semifinal – recital"	3	06/09/22	4	2	2	03:50:00 PM	0
+"Kim Hong Gi"	"M"	30	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/09/22	1	3	1	07:30:00 PM	0
+"Tadokoro Marcel"	"M"	28	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/09/22	2	4	2		0
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/09/22	3	5	3		1
+"Dmytro Choni"	"M"	28	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/09/22	4	6	4		1
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Semifinal – recital"	3	06/10/22	5	1	1	02:30:00 PM	1
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Semifinal – recital"	3	06/10/22	6	2	2	03:50:00 PM	1
+"Sun Yutong"	"M"	26	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/10/22	5	3	1	07:30:00 PM	0
+"Kamei Masaya"	"M"	20	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/10/22	6	4	2		0
+"Park Jinhyung"	"M"	26	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/10/22	7	5	3		0
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/10/22	8	6	4		1
+"Kim Hong Gi"	"M"	30	"Cliburn 2022"	"Semifinal – recital"	3	06/11/22	7	1	1	02:30:00 PM	0
+"Tadokoro Marcel"	"M"	28	"Cliburn 2022"	"Semifinal – recital"	3	06/11/22	8	2	2	03:50:00 PM	0
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/11/22	9	3	1	07:30:00 PM	1
+"Shin Changyong"	"M"	28	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/11/22	10	4	2		0
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/11/22	11	5	3		1
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Semifinal – Mozart concerto"	3	06/11/22	12	6	4		1
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Semifinal – recital"	3	06/12/22	9	1	1	02:30:00 PM	1
+"Choni Dmytro"	"M"	28	"Cliburn 2022"	"Semifinal – recital"	3	06/12/22	10	2	2	03:50:00 PM	1
+"Park Jinhyung"	"M"	26	"Cliburn 2022"	"Semifinal – recital"	3	06/12/22	11	3	1	07:30:00 PM	0
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Semifinal – recital"	3	06/12/22	12	4	2	08:50:00 PM	1
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Final 1"	4	06/14/22	1	1	1	07:30:00 PM	1
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Final 1"	4	06/14/22	2	2	2		0
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Final 1"	4	06/14/22	3	3	3		0
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Final 1"	4	06/15/22	4	1	1	07:30:00 PM	0
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Final 1"	4	06/15/22	5	2	2		1
+"Choni Dmytro"	"M"	28	"Cliburn 2022"	"Final 1"	4	06/15/22	6	3	3		1
+"Stephenson Clayton"	"M"	23	"Cliburn 2022"	"Final 2"	4	06/17/22	1	1	1	07:30:00 PM	0
+"Shmukler Ilya"	"M"	27	"Cliburn 2022"	"Final 2"	4	06/17/22	2	2	2		0
+"Lim Yunchan"	"M"	18	"Cliburn 2022"	"Final 2"	4	06/17/22	3	3	3		1
+"Choni Dmytro"	"M"	28	"Cliburn 2022"	"Final 2"	4	06/18/22	4	1	1	07:30:00 PM	1
+"Khandohi Uladzislau"	"M"	20	"Cliburn 2022"	"Final 2"	4	06/18/22	5	2	2		0
+"Geniushene Anna"	"F"	31	"Cliburn 2022"	"Final 2"	4	06/18/22	6	3	3		1
+"Makhamedrikova Anastasia"	"F"		"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	1	1	1	03:00:00 PM	0
+"Trushechkin Alexey"	"M"		"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	2	2	2	03:35:00 PM	0
+"Yakhlakova Marina"	"F"	31	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	3	3	3	04:30:00 PM	0
+"Korchagin Stanislav"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	4	4	4	05:05:00 PM	1
+"Romanchukevich Gleb-Joseph"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	5	5	1	07:00:00 PM	0
+"Khachikyan Konstantin"	"M"	27	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	6	6	2	07:35:00 PM	1
+"Tarasevich-Nikolayev Arseny"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	7	7	3	08:30:00 PM	1
+"Ivanov Andrey"	"M"		"Rachmaninoff International Competition 2022"	"Round 1"	1	06/16/22	8	8	4	09:05:00 PM	0
+"Malinin Valentin"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	9	1	1	03:00:00 PM	0
+"Glazova Lyubov"	"F"	22	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	10	2	2	03:35:00 PM	0
+"Zhang Boao"	"M"	19	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	11	3	3	04:30:00 PM	1
+"Bessonov Ivan"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	12	4	4	05:05:00 PM	1
+"Iatcekiw Estefan Vergara"	"M"	18	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	13	5	1	07:00:00 PM	1
+"Xie Lingfei (Stephan)"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	14	6	2	07:35:00 PM	0
+"Yashkin Anton"	"M"	24	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	15	7	3	08:30:00 PM	0
+"Papoyan Ilya"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/17/22	16	8	4	09:05:00 PM	1
+"Gevorgyan Eva"	"F"	18	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	17	1	1	03:00:00 PM	1
+"Lynov Philipp"	"M"	23	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	18	2	2	03:35:00 PM	1
+"Sin Dmitry"	"M"	28	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	19	3	3	04:30:00 PM	1
+"Rudenko Philipp"	"M"	20	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	20	4	4	05:05:00 PM	1
+"Grot Anna"	"F"		"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	21	5	1	07:00:00 PM	0
+"Mao Xuanyi"	"F"	27	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	22	6	2	07:35:00 PM	1
+"Zhu Yuanheng"	"M"	18	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	23	7	3	08:30:00 PM	0
+"Klyuchko Alexander"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 1"	1	06/18/22	24	8	4	09:05:00 PM	1
+"Korchagin Stanislav"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	1	1	1	02:00:00 PM	0
+"Khachikyan Konstantin"	"M"	27	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	2	2	2	03:00:00 PM	1
+"Tarasevich-Nikolayev Arseny"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	3	3	3	04:30:00 PM	1
+"Zhang Boao"	"M"	19	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	4	4	4	05:30:00 PM	0
+"Bessonov Ivan"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	5	5	5	07:00:00 PM	1
+"Iatcekiw Estefan Vergara"	"M"	18	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	6	6	6	08:00:00 PM	1
+"Papoyan Ilya"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/19/22	7	7	7	09:15:00 PM	1
+"Gevorgyan Eva"	"F"	18	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	8	1	1	02:00:00 PM	1
+"Lynov Philipp"	"M"	23	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	9	2	2	03:00:00 PM	0
+"Sin Dmitry"	"M"	28	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	10	3	3	04:30:00 PM	0
+"Rudenko Philipp"	"M"	20	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	11	4	4	05:30:00 PM	0
+"Mao Xuanyi"	"F"	27	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	12	5	5	07:00:00 PM	1
+"Klyuchko Alexander"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 2"	2	06/20/22	13	6	6	08:00:00 PM	1
+"Khachikyan Konstantin"	"M"	27	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	1	1	1	06:00:00 PM	1
+"Tarasevich-Nikolayev Arseny"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	2	2	2	06:25:00 PM	1
+"Bessonov Ivan"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	3	3	3	06:50:00 PM	1
+"Iatcekiw Estefan Vergara"	"M"	18	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	4	4	4	07:30:00 PM	1
+"Papoyan Ilya"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	5	5	5	07:55:00 PM	1
+"Gevorgyan Eva"	"F"	18	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	6	6	6	08:20:00 PM	1
+"Mao Xuanyi"	"F"	27	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	7	7	7	09:00:00 PM	1
+"Klyuchko Alexander"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 3 – vocalists"	3	06/22/22	8	8	8	09:25:00 PM	1
+"Khachikyan Konstantin"	"M"	27	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/24/22	1	1	1	07:00:00 PM	1
+"Tarasevich-Nikolayev Arseny"	"M"	29	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/24/22	2	2	2	08:25:00 PM	1
+"Bessonov Ivan"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/24/22	3	3	3	09:40:00 PM	1
+"Iatcekiw Estefan Vergara"	"M"	18	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/25/22	4	1	1	07:00:00 PM	1
+"Papoyan Ilya"	"M"	21	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/25/22	5	2	2	08:40:00 PM	1
+"Gevorgyan Eva"	"F"	18	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/25/22	6	3	3	10:00:00 PM	1
+"Mao Xuanyi"	"F"	27	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/26/22	7	1	1	07:00:00 PM	1
+"Klyuchko Alexander"	"M"	22	"Rachmaninoff International Competition 2022"	"Round 3 – orchestra"	3	06/26/22	8	2	2	08:30:00 PM	1
+"Pečnik Mia "	"F"		"Paderewski"	"Stage 1"	1	11/07/22	1	1	1	10:00:00 AM	0
+"Liu Qiao"	"F"		"Paderewski"	"Stage 1"	1	11/07/22	2	2	2	10:30:00 AM	0
+"Wierciński Andrzej"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	3	3	3	11:00:00 AM	0
+"Park Youngho"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	4	4	4	11:30:00 AM	0
+"Kamplet Nejc"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	5	5	5	12:30:00 PM	0
+"Choi Young Sun"	"F"		"Paderewski"	"Stage 1"	1	11/07/22	6	6	6	01:00:00 PM	1
+"Lee Jaeyoon"	"F"		"Paderewski"	"Stage 1"	1	11/07/22	7	7	7	01:30:00 PM	0
+"Nakamura Yoshimi"	"F"		"Paderewski"	"Stage 1"	1	11/07/22	8	8	1	04:30:00 PM	1
+"Wu Jun Lin"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	9	9	2	05:00:00 PM	1
+"Kimura Yurika"	"F"		"Paderewski"	"Stage 1"	1	11/07/22	10	10	3	05:30:00 PM	0
+"Wieczorek Marcin"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	11	11	4	06:30:00 PM	0
+"Pawlak Piotr"	"M"		"Paderewski"	"Stage 1"	1	11/07/22	12	12	5	07:00:00 PM	1
+"Zhang Lvjie"	"F"		"Paderewski"	"Stage 1"	1	11/08/22	13	1	1	10:00:00 AM	0
+"Jordania Salome"	"F"		"Paderewski"	"Stage 1"	1	11/08/22	14	2	2	10:30:00 AM	1
+"Sato Motohiro"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	15	3	3	11:00:00 AM	0
+"Takubo Moka"	"F"		"Paderewski"	"Stage 1"	1	11/08/22	16	4	4	11:30:00 AM	1
+"Huang Yi Teng"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	17	5	5	12:30:00 PM	1
+"Zhao Muzi"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	18	6	6	01:00:00 PM	1
+"Krzyżowski Mateusz"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	19	7	7	01:30:00 PM	1
+"Han Hee Jun"	"F"		"Paderewski"	"Stage 1"	1	11/08/22	20	8	1	04:30:00 PM	0
+"Zhou Noah"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	21	9	2	05:00:00 PM	1
+"Choi Won Seok"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	22	10	3	05:30:00 PM	0
+"Zhong Yonghuan"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	23	11	4	06:30:00 PM	0
+"Cecino Elia"	"M"		"Paderewski"	"Stage 1"	1	11/08/22	24	12	5	07:00:00 PM	1
+"Gusachenko Galyna"	"F"		"Paderewski"	"Stage 1"	1	11/09/22	25	1	1	10:00:00 AM	1
+"Kałduński Adam"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	26	2	2	10:30:00 AM	1
+"Okui Shio"	"F"		"Paderewski"	"Stage 1"	1	11/09/22	27	3	3	11:00:00 AM	1
+"Vasilev Georgi"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	28	4	4	11:30:00 AM	1
+"Liu Yanan"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	29	5	5	12:30:00 PM	0
+"Kim Seunghui"	"F"		"Paderewski"	"Stage 1"	1	11/09/22	30	6	6	01:00:00 PM	0
+"Ota Saya"	"F"		"Paderewski"	"Stage 1"	1	11/09/22	31	7	7	01:30:00 PM	1
+"Wachowski Jan"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	32	8	1	04:30:00 PM	0
+"Lee Minsung"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	33	9	2	05:00:00 PM	0
+"López Salas Pedro"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	34	10	3	05:30:00 PM	1
+"Bobylova Anfisa"	"F"		"Paderewski"	"Stage 1"	1	11/09/22	35	11	4	06:30:00 PM	0
+"Tsang Hin Yat"	"M"		"Paderewski"	"Stage 1"	1	11/09/22	36	12	5	07:00:00 PM	1
+"Kim Sunah"	"F"		"Paderewski"	"Stage 1"	1	11/10/22	37	1	1	10:00:00 AM	0
+"Imada Atsushi"	"M"		"Paderewski"	"Stage 1"	1	11/10/22	38	2	2	10:30:00 AM	0
+"Saienko Danylo"	"M"		"Paderewski"	"Stage 1"	1	11/10/22	39	3	3	11:00:00 AM	1
+"Choi Young Sun"	"F"		"Paderewski"	"Stage 2"	2	11/11/22	1	1	1	10:00:00 AM	0
+"Nakamura Yoshimi"	"F"		"Paderewski"	"Stage 2"	2	11/11/22	2	2	2	10:45:00 AM	0
+"Wu Jun Lin"	"M"		"Paderewski"	"Stage 2"	2	11/11/22	3	3	3	12:00:00 PM	1
+"Pawlak Piotr"	"M"		"Paderewski"	"Stage 2"	2	11/11/22	4	4	4	12:45:00 PM	1
+"Jordania Salome"	"F"		"Paderewski"	"Stage 2"	2	11/11/22	5	5	1	04:30:00 PM	0
+"Takubo Moka"	"F"		"Paderewski"	"Stage 2"	2	11/11/22	6	6	2	05:15:00 PM	1
+"Huang Yi Teng"	"M"		"Paderewski"	"Stage 2"	2	11/11/22	7	7	3	06:30:00 PM	1
+"Zhao Muzi"	"M"		"Paderewski"	"Stage 2"	2	11/11/22	8	8	4	07:15:00 PM	0
+"Krzyżowski Mateusz"	"M"		"Paderewski"	"Stage 2"	2	11/12/22	9	1	1	10:00:00 AM	1
+"Zhou Noah"	"M"		"Paderewski"	"Stage 2"	2	11/12/22	10	2	2	10:45:00 AM	0
+"Cecino Elia"	"M"		"Paderewski"	"Stage 2"	2	11/12/22	11	3	3	12:00:00 PM	1
+"Gusachenko Galyna"	"F"		"Paderewski"	"Stage 2"	2	11/12/22	12	4	4	12:45:00 PM	0
+"Kałduński Adam"	"M"		"Paderewski"	"Stage 2"	2	11/12/22	13	5	1	04:30:00 PM	0
+"Okui Shio"	"F"		"Paderewski"	"Stage 2"	2	11/12/22	14	6	2	05:15:00 PM	1
+"Vasilev Georgi"	"M"		"Paderewski"	"Stage 2"	2	11/12/22	15	7	3	06:30:00 PM	1
+"Ota Saya"	"F"		"Paderewski"	"Stage 2"	2	11/12/22	16	8	4	07:15:00 PM	0
+"López Salas Pedro"	"M"		"Paderewski"	"Stage 2"	2	11/13/22	17	1	1	10:00:00 AM	1
+"Tsang Hin Yat"	"M"		"Paderewski"	"Stage 2"	2	11/13/22	18	2	2	10:45:00 AM	0
+"Saienko Danylo"	"M"		"Paderewski"	"Stage 2"	2	11/13/22	19	3	3	12:00:00 PM	1
+"Wu Jun Lin"	"M"		"Paderewski"	"Semifinal-recital"	3	11/15/22	1	1	1	10:00:00 AM	0
+"Pawlak Piotr"	"M"		"Paderewski"	"Semifinal-recital"	3	11/15/22	2	2	2	10:45:00 AM	1
+"Takubo Moka"	"F"		"Paderewski"	"Semifinal-recital"	3	11/15/22	3	3	3	11:30:00 AM	0
+"Huang Yi Teng"	"M"		"Paderewski"	"Semifinal-recital"	3	11/15/22	4	4	4	12:45:00 PM	0
+"Krzyżowski Mateusz"	"M"		"Paderewski"	"Semifinal-recital"	3	11/15/22	5	5	5	01:30:00 PM	1
+"Cecino Elia"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/15/22	1	6	1	04:30:00 PM	0
+"Okui Shio"	"F"		"Paderewski"	"Semifinal-concerto"	3	11/15/22	2	7	2	05:15:00 PM	1
+"Vasilev Georgi"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/15/22	3	8	3	06:00:00 PM	0
+"López Salas Pedro"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/15/22	4	9	4	06:45:00 PM	1
+"Saienko Danylo"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/15/22	5	10	5	07:30:00 PM	1
+"Cecino Elia"	"M"		"Paderewski"	"Semifinal-recital"	3	11/16/22	6	1	1	10:00:00 AM	0
+"Okui Shio"	"F"		"Paderewski"	"Semifinal-recital"	3	11/16/22	7	2	2	10:45:00 AM	1
+"Vasilev Georgi"	"M"		"Paderewski"	"Semifinal-recital"	3	11/16/22	8	3	3	11:30:00 AM	0
+"López Salas Pedro"	"M"		"Paderewski"	"Semifinal-recital"	3	11/16/22	9	4	4	12:45:00 PM	1
+"Saienko Danylo"	"M"		"Paderewski"	"Semifinal-recital"	3	11/16/22	10	5	5	01:30:00 PM	1
+"Wu Jun Lin"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/16/22	6	6	1	04:30:00 PM	0
+"Pawlak Piotr"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/16/22	7	7	2	05:15:00 PM	1
+"Takubo Moka"	"F"		"Paderewski"	"Semifinal-concerto"	3	11/16/22	8	8	3	06:00:00 PM	0
+"Huang Yi Teng"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/16/22	9	9	4	06:45:00 PM	0
+"Krzyżowski Mateusz"	"M"		"Paderewski"	"Semifinal-concerto"	3	11/16/22	10	10	5	07:30:00 PM	1
+"Pawlak Piotr"	"M"		"Paderewski"	"Final"	4	11/18/22	1	1	1	07:00:00 PM	0
+"Krzyżowski Mateusz"	"M"		"Paderewski"	"Final"	4	11/18/22	2	2	2	07:00:00 PM	1
+"Okui Shio"	"F"		"Paderewski"	"Final"	4	11/18/22	3	3	3	07:00:00 PM	0
+"López Salas Pedro"	"M"		"Paderewski"	"Final"	4	11/19/22	4	1	1	07:00:00 PM	1
+"Saienko Danylo"	"M"		"Paderewski"	"Final"	4	11/19/22	5	2	2	07:00:00 PM	1
+"Mikdad Aidan"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/15/23	1	1	1	02:00:00 PM	0
+"Segal Almog"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/15/23	2	2	2	02:00:00 PM	0
+"Bui J J Jun Li"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/15/23	3	3	3	02:00:00 PM	1
+"Zalmanov Tom"	"M"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/15/23	4	4	1	07:00:00 PM	0
+"Yudin Dmitry"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/15/23	5	5	2	07:00:00 PM	1
+"Kim Do Hyun"	"M"	28	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/16/23	6	1	1	02:00:00 PM	0
+"Sherling Mariamma"	"F"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/16/23	7	2	2	02:00:00 PM	0
+"Guarrera Giuseppe"	"M"	31	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/16/23	8	3	1	07:00:00 PM	1
+"Yavuz Emre"	"M"	32	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/16/23	9	4	2	07:00:00 PM	0
+"Senik Jonathan"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/16/23	10	5	3	07:00:00 PM	0
+"Wang Derek"	"M"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	11	1	1	02:00:00 PM	1
+"Cecino Elia"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	12	2	2	10:00:00 AM	1
+"Aumiller Jonas"	"M"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	13	3	3	10:00:00 AM	1
+"Stychkina Alexandra"	"F"	19	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	14	4	1	02:00:00 PM	1
+"Zhu Hanyuan"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	15	5	2	02:00:00 PM	0
+"Ayadi Nour"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/17/23	16	6	3	02:00:00 PM	0
+"Kuroki Yukine"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	17	1	1	10:30:00 AM	1
+"Kajenjeri Mirabelle"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	18	2	2	10:30:00 AM	1
+"Khozyainov Nikolay"	"M"	30	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	19	3	1	02:30:00 PM	1
+"Gigashvili Giorgi"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	20	4	2	02:30:00 PM	1
+"Zhou Noah"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	21	5	3	02:30:00 PM	0
+"Chen Kevin"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	22	6	1	07:00:00 PM	1
+"Prag Itamar"	"M"	28	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/18/23	23	7	2	07:00:00 PM	0
+"Eydman Maria"	"F"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/19/23	24	1	1	02:00:00 PM	0
+"Park Chaeyoung"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/19/23	25	2	2	02:00:00 PM	1
+"Furumi Yasuko"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/19/23	26	3	1	07:00:00 PM	0
+"Menguy Rodolphe"	"M"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/19/23	27	4	2	07:00:00 PM	0
+"Kuszlik Jakub"	"M"	26	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/19/23	28	5	3	07:00:00 PM	0
+"Kuznetsov Nikolai"	"M"	28	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/20/23	29	1	1	11:00:00 AM	0
+"Ferro Alberto"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/20/23	30	2	2	11:00:00 AM	1
+"Xiong Jiacheng"	"M"	26	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/20/23	31	3	3	11:00:00 AM	0
+"Zhang Lixin"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/20/23	32	4	1	03:00:00 PM	1
+"Smith Talon"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 1"	1	03/20/23	33	5	2	03:00:00 PM	1
+"Bui J J Jun Li"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	1	1	1	02:00:00 PM	0
+"Yudin Dmitry"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	2	2	2	02:00:00 PM	0
+"Guarrera Giuseppe"	"M"	31	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	3	3	1	05:00:00 PM	0
+"Wang Derek"	"M"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	4	4	2	05:00:00 PM	0
+"Cecino Elia"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	5	5	1	08:30:00 PM	1
+"Aumiller Jonas"	"M"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/21/23	6	6	2	08:30:00 PM	0
+"Stychkina Alexandra"	"F"	19	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	7	1	1	02:00:00 PM	0
+"Kuroki Yukine"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	8	2	2	02:00:00 PM	1
+"Kajenjeri Mirabelle"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	9	3	1	05:00:00 PM	0
+"Khozyainov Nikolay"	"M"	30	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	10	4	2	05:00:00 PM	0
+"Gigashvili Giorgi"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	11	5	1	08:30:00 PM	1
+"Chen Kevin"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/22/23	12	6	2	08:30:00 PM	1
+"Park Chaeyoung"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/23/23	13	1	1	11:00:00 AM	1
+"Ferro Alberto"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/23/23	14	2	2	11:00:00 AM	1
+"Zhang Lixin"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/23/23	15	3	1	02:00:00 PM	0
+"Smith Talon"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Stage 2"	2	03/23/23	16	4	2	02:00:00 PM	0
+"Cecino Elia"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/24/23	1	1	1	02:00:00 PM	0
+"Kuroki Yukine"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/24/23	2	2	2	02:00:00 PM	1
+"Gigashvili Giorgi"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/24/23	3	3	3	02:00:00 PM	1
+"Chen Kevin"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/25/23	4	1	1	11:00:00 AM	1
+"Park Chaeyoung"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/25/23	5	2	2	11:00:00 AM	0
+"Ferro Alberto"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final chamber"	3	03/25/23	6	3	3	11:00:00 AM	0
+"Cecino Elia"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/26/23	1	1	1	08:00:00 PM	0
+"Kuroki Yukine"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/26/23	2	2	2	08:00:00 PM	1
+"Gigashvili Giorgi"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/26/23	3	3	3	08:00:00 PM	1
+"Chen Kevin"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/27/23	4	1	1	08:00:00 PM	1
+"Park Chaeyoung"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/27/23	5	2	2	08:00:00 PM	0
+"Ferro Alberto"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final classical concerto"	3	03/27/23	6	3	3	08:00:00 PM	0
+"Cecino Elia"	"M"	21	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/29/23	1	1	1	08:00:00 PM	0
+"Kuroki Yukine"	"F"	24	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/29/23	2	2	2	08:00:00 PM	1
+"Gigashvili Giorgi"	"M"	22	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/29/23	3	3	3	08:00:00 PM	1
+"Chen Kevin"	"M"	18	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/30/23	4	1	1	07:00:00 PM	1
+"Park Chaeyoung"	"F"	25	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/30/23	5	2	2	07:00:00 PM	0
+"Ferro Alberto"	"M"	27	"The 17th Arthur Rubinstein International Piano Master Competition"	"Final grand concerto"	3	03/30/23	6	3	3	07:00:00 PM	0
+"Huang Xinyi"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	1	1	1		0
+"Joo Gahyeon"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	2	2	2		0
+"Kałduński Adam"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	3	3	3		1
+"Chang Xing"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	4	4	4		1
+"Karaalioglu Lal"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	5	5	5		0
+"Kim Seolhwa"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	6	6	6		1
+"Lam Ka Ming"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	7	7	7		0
+"Maltsev Aleksandr"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	8	8	1		0
+"Marek Matouš"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	9	9	2		0
+"Mkrtchyan Liana"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	10	10	3		0
+"Pichlbauer Florian"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	11	11	4		0
+"Saienko Danylo"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	12	12	5		1
+"Saiki Marina"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	13	13	6		1
+"Sasaki Ryusuke"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	14	14	7		0
+"Shaklev Andrej"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	15	15	8		0
+"Mandarini Alessandro"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	16	16	9		0
+"Torosov Karen"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	17	17	10		0
+"Tsujimoto Rikako"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	18	18	11		1
+"Anglani Giacomo"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	19	19	12		0
+"Bevilacqua Domenico"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	20	20	13		1
+"Kang Feng Shen"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	21	21	14		0
+"Buggiani Pierpaolo"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/22/23	22	22	15		1
+"Kajiwara Ui"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	23	1	1		1
+"Buyo Honoka"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	24	2	2		1
+"Candotti Michelle"	"F"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	25	3	3		1
+"Cesarano Davide"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	26	4	4		0
+"Chen Junhui"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	27	5	5		1
+"Dekalo Noam"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	28	6	6		0
+"Franceschetto Piero"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	29	7	7		0
+"Parisato Jacopo"	"M"		"Premio Amadeus 2023"	"Preliminary"	1	03/23/23	30	8	8		0
+"Kajiwara Ui"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	1	1	1	09:30:00 AM	0
+"Kałduński Adam"	"M"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	2	2	2	09:55:00 AM	1
+"Chang Xing"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	3	3	3	10:20:00 AM	0
+"Kim Seolhwa"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	4	4	4	11:15:00 AM	0
+"Saienko Danylo"	"M"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	5	5	5	11:40:00 AM	0
+"Saiki Marina"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	6	6	6	12:05:00 PM	0
+"Tsujimoto Rikako"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	7	7	1	03:00:00 PM	0
+"Bevilacqua Domenico"	"M"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	8	8	2	03:25:00 PM	0
+"Buggiani Pierpaolo"	"M"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	9	9	3	03:50:00 PM	1
+"Buyo Honoka"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	10	10	4	04:45:00 PM	0
+"Candotti Michelle"	"F"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	11	11	5	05:10:00 PM	1
+"Chen Junhui"	"M"		"Premio Amadeus 2023"	"Semifinal"	2	03/24/23	12	12	6	05:35:00 PM	1
+"Kałduński Adam"	"M"		"Premio Amadeus 2023"	"Final"	3	03/25/23	1	1	1	08:00:00 PM	1
+"Buggiani Pierpaolo"	"M"		"Premio Amadeus 2023"	"Final"	3	03/25/23	2	2	2	08:40:00 PM	0
+"Candotti Michelle"	"F"		"Premio Amadeus 2023"	"Final"	3	03/25/23	3	3	3	09:30:00 PM	1
+"Chen Junhui"	"M"		"Premio Amadeus 2023"	"Final"	3	03/25/23	4	4	4	10:10:00 PM	1
+"Linnik Denis"	"M"	27	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	1	1	1	10:30:00 AM	0
+"Chen Xuehong"	"M"	23	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	2	2	2	10:55:00 AM	0
+"Kaya Shota"	"M"	22	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	3	3	3	11:20:00 AM	1
+"Guarrera Giuseppe"	"M"	31	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	4	4	4	12:00:00 PM	1
+"Lee Hyo"	"M"	16	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	5	5	5	12:25:00 PM	0
+"Balogh Ádám"	"M"	25	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	6	6	1	06:00:00 PM	1
+"Mascetti Danilo"	"M"	30	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	7	7	2	06:25:00 PM	0
+"Johnson Carter"	"M"	26	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	8	8	3	06:50:00 PM	1
+"Cho Jun Hwi"	"M"	27	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	9	9	4	07:20:00 PM	0
+"Lopatynskyi Roman"	"M"	29	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/13/23	10	10	5	07:45:00 PM	0
+"Goranko Joanna"	"F"	21	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	11	1	1	10:30:00 AM	0
+"Bakradze Ana"	"F"	23	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	12	2	2	10:55:00 AM	0
+"Park Kyoungsun"	"M"	30	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	13	3	3	11:20:00 AM	1
+"Shi Wenting"	"F"	30	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	14	4	4	12:00:00 PM	1
+"Bobylova Anfisa"	"F"	31	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	15	5	5	12:25:00 PM	1
+"Bilicka Elzbieta"	"F"	31	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	16	6	1	06:00:00 PM	0
+"Cassiers Anaïs"	"F"	24	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	17	7	2	06:25:00 PM	0
+"Korchagin Stanislav"	"M"	29	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	18	8	3	06:50:00 PM	1
+"Kwon Kisuk"	"M"	31	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	19	9	4	07:20:00 PM	1
+"Yang Yuanfan"	"M"	26	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/14/23	20	10	5	07:45:00 PM	1
+"Lin Hao Wei"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	21	1	1	10:30:00 AM	1
+"Fediurko Roman"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	22	2	2	10:55:00 AM	1
+"Hirama Kyoshiro"	"M"	24	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	23	3	3	11:20:00 AM	0
+"López Salas Pedro"	"M"	25	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	24	4	4	12:00:00 PM	0
+"Aladashvili David"	"M"	32	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	25	5	5	12:25:00 PM	0
+"Qiao Yuli"	"F"	23	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	26	6	1	03:00:00 PM	0
+"Saienko Danylo"	"M"	32	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	27	7	2	03:25:00 PM	1
+"Trevelyan Julian"	"M"	24	"Horowitz Competition Kyiv-Geneva 2023"	"First round"	1	04/15/23	28	8	3	03:50:00 PM	1
+"Kaya Shota"	"M"	22	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	1	1	1	10:30:00 AM	0
+"Guarrera Giuseppe"	"M"	31	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	2	2	2	11:10:00 AM	1
+"Balogh Ádám"	"M"	25	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	3	3	3	12:10:00 PM	1
+"Park Kyoungsun"	"M"	30	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	4	4	4	12:50:00 PM	1
+"Shi Wenting"	"F"	30	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	5	5	1	04:00:00 PM	0
+"Bobylova Anfisa"	"F"	31	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	6	6	2	04:40:00 PM	1
+"Korchagin Stanislav"	"M"	29	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	7	7	3	05:40:00 PM	1
+"Kwon Kisuk"	"M"	31	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/16/23	8	8	4	06:20:00 PM	0
+"Johnson Carter"	"M"	26	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	9	1	1	10:30:00 AM	0
+"Yang Yuanfan"	"M"	26	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	10	2	2	11:10:00 AM	1
+"Lin Hao Wei"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	11	3	3	12:10:00 PM	1
+"Fediurko Roman"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	12	4	4	12:50:00 PM	1
+"López Salas Pedro"	"M"	25	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	13	5	1	04:00:00 PM	0
+"Saienko Danylo"	"M"	32	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	14	6	2	04:40:00 PM	0
+"Trevelyan Julian"	"M"	24	"Horowitz Competition Kyiv-Geneva 2023"	"Second round"	2	04/17/23	15	7	3	05:20:00 PM	1
+"Guarrera Giuseppe"	"M"	31	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/18/23	1	1	1	10:30:00 AM	0
+"Balogh Ádám"	"M"	25	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/18/23	2	2	2	11:40:00 AM	0
+"Park Kyoungsun"	"M"	30	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/18/23	3	3	1	04:00:00 PM	1
+"Bobylova Anfisa"	"F"	31	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/18/23	4	4	2	05:10:00 PM	0
+"Korchagin Stanislav"	"M"	29	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/18/23	5	5	3	06:20:00 PM	0
+"Yang Yuanfan"	"M"	26	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/19/23	6	1	1	10:30:00 AM	0
+"Lin Hao Wei"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/19/23	7	2	2	11:40:00 AM	0
+"Fediurko Roman"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/19/23	8	3	1	04:00:00 PM	1
+"Trevelyan Julian"	"M"	24	"Horowitz Competition Kyiv-Geneva 2023"	"Third round"	3	04/19/23	9	4	2	05:10:00 PM	1
+"Trevelyan Julian"	"M"	24	"Horowitz Competition Kyiv-Geneva 2023"	"Final"	4	04/21/23	1	1	1	07:00:00 PM	1
+"Fediurko Roman"	"M"	18	"Horowitz Competition Kyiv-Geneva 2023"	"Final"	4	04/21/23	2	2	2		1
+"Park Kyoungsun"	"M"	30	"Horowitz Competition Kyiv-Geneva 2023"	"Final"	4	04/21/23	3	3	3		1

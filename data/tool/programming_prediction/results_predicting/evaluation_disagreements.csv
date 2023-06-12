@@ -1,0 +1,6 @@
+name,case_disagreement,total_disagreement,pt1_disagreement,pt2_disagreement,pt3_disagreement,pt4_disagreement,pt5_disagreement,pt6_disagreement
+layer1,1.0,0.4166666666666667,0.5,0.0,0.5,0.5,0.5,0.5
+layer2,1.0,0.3333333333333333,0.5,0.0,0.5,0.5,0.0,0.5
+layer3,0.5,0.08333333333333333,0.0,0.0,0.0,0.5,0.0,0.0
+layer2_exclusive,1.0,0.7999999999999999,1.0,,1.0,1.0,0.0,1.0
+layer2_exclusive,0.5,0.25,0.0,,0.0,1.0,,0.0

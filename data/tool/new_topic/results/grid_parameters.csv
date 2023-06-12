@@ -1,0 +1,9 @@
+,pt1,name
+0,{'n_neighbors': 24},KNeighborsClassifier
+1,{'n_neighbors': 32},KNeighborsRegressor
+2,{'max_depth': 4},DecisionTreeClassifier
+3,{'max_depth': 4},DecisionTreeRegressor
+4,"{'max_depth': 5, 'n_estimators': 1000}",RandomForestClassifier
+5,"{'max_depth': 5, 'n_estimators': 1000}",RandomForestRegressor
+6,"{'C': 10, 'gamma': 0.001}",SVC
+7,"{'C': 1, 'gamma': 0.001}",SVR
